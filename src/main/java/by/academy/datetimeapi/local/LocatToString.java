@@ -15,5 +15,4 @@ public class LocatToString {
         System.out.println(localDate); // 2020-02-03
         System.out.println(localDateTime); // 2020-02-03T17:00:59.276
     }
-
 }
