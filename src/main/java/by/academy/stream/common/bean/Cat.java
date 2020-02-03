@@ -1,4 +1,4 @@
-package by.academy.stream.bean;
+package by.academy.stream.common.bean;
 
 public class Cat {
 

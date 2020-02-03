@@ -1,6 +1,6 @@
-package by.academy.stream.without;
+package by.academy.stream.common.without;
 
-import by.academy.stream.bean.Cat;
+import by.academy.stream.common.bean.Cat;
 
 import java.util.ArrayList;
 import java.util.List;
